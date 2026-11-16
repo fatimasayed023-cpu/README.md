@@ -40,24 +40,59 @@ I recently completed a **Data Analytics course** where I worked with Python, SQL
 ---
 
 ## 📂 Projects
+### Retail Sales Analysis Dashboard
 
-### 📊 Sales Data Analysis
+Built an end-to-end analytics solution for a local retail chain to diagnose a recurring revenue decline during monsoon quarters. Combined Python-based data cleaning, SQL analytics, and Power BI visualization to deliver a dashboard the owner adopted for weekly decision-making.
 
-Analyzed sales data to identify revenue trends, top-performing products, customer behavior, and regional performance.
+Key Metrics & Impact
+- 48,000+ transactions cleaned and standardized across 3 years of sales history
+38% of revenue dip attributed to 2 under-stocked categories
+20+ SQL queries written with joins, CTEs, and window functions for trend analysis
+4-page interactive Power BI dashboard with store-level, category-level, and seasonality drill-downs
 
-**Tools:** Python, Pandas, Matplotlib, Excel
+What I Did
+Performed complete data cleaning: removed duplicates, fixed inconsistent date formats, imputed missing store codes, and standardized product categories
+Designed a SQL analytics pipeline to compute month-on-month growth, moving averages, and category-wise contribution to revenue
+Built a Power BI dashboard with slicers for time period, store location, and product category
+Presented findings to stakeholders with actionable recommendations on inventory planning
 
-### 🏨 Hotel Booking Analysis
+**Tools:**  Python ,Pandas, SQL ,Power Bi 
 
-Performed data cleaning and exploratory analysis on hotel booking data to identify booking patterns, cancellations, customer preferences, and revenue-related insights.
+### Employee Attrition & Retention Report
 
-**Tools:** Python, Pandas, NumPy, Matplotlib
+Developed an HR analytics report to identify departments and employee segments with the highest attrition risk. Automated the reporting workflow so the dataset could be refreshed monthly without manual rework.
 
-### 📈 Power BI Business Dashboard
+Key Metrics & Impact
+Multi-department workforce dataset segmented by department, tenure band, and salary quartile
+Monthly refresh automated using Power Query, eliminating manual report preparation
+Attrition drivers identified across tenure, compensation, and department dimensions
+Pivot-table summaries and SQL-backed metrics used to validate findings
 
-Created an interactive dashboard to track KPIs, sales performance, customer trends, and business metrics.
+What I Did
+Cleaned HR records and built pivot-table summaries to compare attrition rates across departments
+Wrote SQL queries to calculate attrition percentages, average tenure at exit, and salary-band risk profiles
+Built a Power Query pipeline that automatically refreshes when new monthly data is added
+Delivered a concise management report highlighting at-risk departments and retention recommendations
 
-**Tools:** Power BI, Power Query, DAX
+**Tools:** Excel, Power Query, Pivot Tables ,SQL
+
+### Student Habits vs Academic Performance Study
+
+Conducted a statistical analysis of a 1,000-student dataset to uncover which daily habits most strongly correlate with exam performance. Transformed raw survey data into insights through exploratory data analysis, correlation analysis, and clear data storytelling.
+
+Key Metrics & Impact
+1,000 student records analyzed across 8 behavioral and academic variables
+5+ correlation insights identified between study hours, sleep, attendance, social media use, and exam scores
+10-slide insight deck created with annotated charts for non-technical audiences
+5+ visualization types produced: histograms, scatter plots, bar charts, pie charts, and line charts
+
+What I Did
+Cleaned and preprocessed survey data using Pandas: handled missing values, standardized categorical fields, and removed inconsistencies
+Applied NumPy and Pandas for descriptive statistics, correlation analysis, and conditional filtering
+Created publication-ready visualizations with Matplotlib, each paired with a written insight explaining the trend
+Wrote a final analytical report summarizing the relationship between habits and academic outcomes
+
+**Tools:** Python, Pandas, NumPy, Matplotlib,  Jupyter Notebook
 
 ### 🗄️ SQL Data Analysis
 
@@ -90,7 +125,6 @@ Used SQL queries to analyze business datasets using filtering, aggregation, join
 
 * 💼 LinkedIn: https://www.linkedin.com/in/fatima-sayed-5352a044b/
 * 📧 Email: fatimasayed.analyst@gmail.com
- 
 * 🐙 GitHub: https://github.com/fatimasayed023-cpu/
 
 ---
