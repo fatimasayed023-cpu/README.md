@@ -114,12 +114,36 @@ Used SQL queries to analyze business datasets using filtering, aggregation, join
 * Presenting data-driven insights
 
 ---
+---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatimasayed023-cpu&show_icons=true&theme=default)
+<div align="center">
 
----
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=fatimasayed023-cpu&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&icon_color=58A6FF&title_color=58A6FF&text_color=C9D1D9&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=fatimasayed023-cpu&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Most used languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=fatimasayed023-cpu&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub streak" />
+
+</div>
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fatimasayed023-cpu&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF&hide_border=true" alt="Contribution graph" />
+
+</div>
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-trophies.vercel.app/?username=fatimasayed023-cpu&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=12" alt="GitHub trophies" />
+
+</div>
 
 ## 📫 Connect With Me
 
