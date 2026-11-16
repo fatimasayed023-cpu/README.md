@@ -41,6 +41,8 @@ I recently completed a **Data Analytics course** where I worked with Python, SQL
 
 ## 📂 Projects
 ### Retail Sales Analysis Dashboard
+<img width="1536" height="1024" alt="retail-sales" src="https://github.com/user-attachments/assets/2d23d2a9-c014-4b88-a921-5c3a3aacba6f" />
+
 
 Built an end-to-end analytics solution for a local retail chain to diagnose a recurring revenue decline during monsoon quarters. Combined Python-based data cleaning, SQL analytics, and Power BI visualization to deliver a dashboard the owner adopted for weekly decision-making.
 
@@ -59,6 +61,8 @@ Presented findings to stakeholders with actionable recommendations on inventory 
 **Tools:**  Python ,Pandas, SQL ,Power Bi 
 
 ### Employee Attrition & Retention Report
+<img width="1536" height="1024" alt="employee (1)" src="https://github.com/user-attachments/assets/c797e976-8ac7-4dff-9952-648a63053be4" />
+
 
 Developed an HR analytics report to identify departments and employee segments with the highest attrition risk. Automated the reporting workflow so the dataset could be refreshed monthly without manual rework.
 
@@ -77,6 +81,7 @@ Delivered a concise management report highlighting at-risk departments and reten
 **Tools:** Excel, Power Query, Pivot Tables ,SQL
 
 ### Student Habits vs Academic Performance Study
+<img width="1536" height="1024" alt="student" src="https://github.com/user-attachments/assets/b6b4a0c7-fb9a-4fdc-be16-5b329b57e024" />
 
 Conducted a statistical analysis of a 1,000-student dataset to uncover which daily habits most strongly correlate with exam performance. Transformed raw survey data into insights through exploratory data analysis, correlation analysis, and clear data storytelling.
 
